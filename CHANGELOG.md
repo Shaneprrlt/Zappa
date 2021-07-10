@@ -1,5 +1,9 @@
 # Zappa Changelog
 
+## 0.52.1.dev2
+
+* Updated pip packages
+
 ## 0.52.1.dev1
 
 * Synced with upstream changes
