@@ -1,5 +1,9 @@
 # Zappa Changelog
 
+## 0.52.1.dev1
+
+* Synced with upstream changes
+
 ## 0.52.0
 * Remove dateutil version restriction
 * Fix failed downloads of wheel packages with non-alphanumeric characters
